@@ -1,0 +1,89 @@
+/*
+A8F9FF
+9AE5E6
+81A094
+775B59
+
+*/
+
+img{
+    width: 300px;
+}
+
+h1{
+    font-family: 'Overpass', sans-serif; 
+    font-size: 3rem;
+    
+}
+
+h2{
+    font-family: 'Overpass', sans-serif;
+    font-weight: 500;
+ 
+}
+
+.intro{
+    background-color: #A8F9FF ;
+    padding: 1rem;
+    line-height: 25px;
+    text-align: center;
+    font-family: 'Overpass', sans-serif; 
+    
+}
+
+.feature{
+    padding: 2rem;
+    font-family: 'Overpass', sans-serif; 
+}
+
+.feature a{
+    color:white;
+    background: #0f3a3a;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.work{
+    background-color: #0f3a3a;
+    color: white;
+    padding: 1rem;
+    font-family: 'Overpass', sans-serif; 
+}
+
+a{
+    color: #A8F9FF;
+}
+
+a:hover{
+    color:#A8F9FF;
+    text-decoration: none;
+    
+}
+
+.education{
+    font-family: 'Overpass', sans-serif; 
+    padding: 1rem;
+}
+
+.contact{
+    background-color: black;
+    padding: 1rem;
+}
+
+.contact li{
+    color: #A8F9FF;
+}
+
+.contact h2{
+    color: #A8F9FF;
+}
+.contact a{
+    color:#A8F9FF;
+    text-decoration: none;
+    font-family: 'Overpass', sans-serif; 
+}
+
+.contact a:hover{
+    color:yellow;
+}
